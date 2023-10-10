@@ -31,9 +31,9 @@ const quizArray = [
   },
   {
     id: "2",
-    question: "Apa nama sekolahmu...?",
-    options: ["mi hikmah nurul", "hikmah nurul mi", "Hikmah mi nurul", "MI Nurul Hikmah"],
-    correct: "MI Nurul Hikmah",
+    question: "siapa pencipta lagu Indonesia raya...?",
+    options: ["Abdul Basith", "Ahmad Zaini", "Kartini", "WR.Supratman"],
+    correct: "WR.Supratman",
   },
    {
     id: "3",
@@ -144,25 +144,25 @@ const quizArray = [
     correct: "20",
   }, 
   {
-    id: "3",
+    id: "21",
     question: "berpa hasil dari 3x5=..?",
     options: ["25", "30", "21", "15"],
     correct: "15",
   }, 
    {
-    id: "3",
+    id: "22",
     question: "berpa hasil dari 7x5=..?",
     options: ["35", "30", "21", "15"],
     correct: "35",
   }, 
    {
-    id: "3",
+    id: "23",
     question: "berpa hasil dari 8x5=..?",
     options: ["40", "30", "21", "15"],
     correct: "40",
   },
    {
-    id: "3",
+    id: "24",
     question: "berpa hasil dari 6x5=..?",
     options: ["25", "30", "21", "15"],
     correct: "30",
